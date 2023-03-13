@@ -87,7 +87,7 @@ Anda :"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text=""
+                android:text="Gilang"
                 android:textColor="#000000"
                 android:textSize="20dp" />
 
